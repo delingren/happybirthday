@@ -18,6 +18,7 @@ List of parts:
 
 * [Install Arduino IDE](https://www.arduino.cc/en/Guide/)
 * Here's a [post](https://forum.arduino.cc/t/material-and-courser-outline-for-11-12-year-olds/567386/2) with great resources for Arduino for kids. 
+* When uploading the sketch, choose `Arduino Leonardo` as your board. Pro Micro is a clone.
 
 ## Breadboard basics
 
